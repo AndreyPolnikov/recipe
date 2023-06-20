@@ -1,7 +1,7 @@
 # recipe
 
-1) Clone the project into your local folder
-2) Create database 'recipe' on you localmachinen
+1) Clone the project into your local folder, cp .env-example .env
+2) Create database 'recipe' on you local machine
 3) Than do this commands
   php artisan key:generate
   php artisan mirgate
